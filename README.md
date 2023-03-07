@@ -1,2 +1,2 @@
-# html-css-1
+# html_css_first-project
 my first full html-css project
