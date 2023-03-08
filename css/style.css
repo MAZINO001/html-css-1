@@ -386,7 +386,7 @@ body {
     height: 300px;
 }
 
-@media screen and (max-width: 991px) {
+@media (max-width: 991px) {
     .about .about-content .image {
         margin: 0 auto 60px;
     }
