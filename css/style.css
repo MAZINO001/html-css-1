@@ -416,7 +416,7 @@ body {
     top: -40px;
 }
 
-@media screen and (max-wdith:991px) {
+@media screen and (max-width:991px) {
 
     .about .about-content .image::before,
     .about .about-content .image::after {
